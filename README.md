@@ -1,4 +1,4 @@
-#Projet SAÉ S205 - Gestion de Projet
+# Projet SAÉ S205 - Gestion de Projet
 
 Ce projet a été réalisé dans le cadre de la SAÉ S205 du BUT Informatique (IUT Villetaneuse Université Sorbonne Paris Nord). 
 
