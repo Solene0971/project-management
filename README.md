@@ -1,6 +1,8 @@
 #Projet SAÉ S205 - Gestion de Projet
 
-Ce projet a été réalisé dans le cadre de la SAÉ S205 du BUT Informatique (IUT Villetaneuse Université Sorbonne Paris Nord). Il consiste à organiser un voyage pour un club étudiant en respectant des contraintes budgétaires, logistiques et temporelles. L’objectif est de planifier efficacement toutes les étapes nécessaires, depuis la définition des besoins jusqu’à la réalisation du voyage, tout en assurant une gestion rigoureuse des ressources disponibles.
+Ce projet a été réalisé dans le cadre de la SAÉ S205 du BUT Informatique (IUT Villetaneuse Université Sorbonne Paris Nord). 
+
+Il consiste à organiser un voyage pour un club étudiant en respectant des contraintes budgétaires, logistiques et temporelles. L’objectif est de planifier efficacement toutes les étapes nécessaires, depuis la définition des besoins jusqu’à la réalisation du voyage, tout en assurant une gestion rigoureuse des ressources disponibles.
 
 
 ## Livrables
