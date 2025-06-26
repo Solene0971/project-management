@@ -31,5 +31,5 @@ Cloner le dépôt :
    ```
 
 ## Auteurs
->Solène Bourg [@Solene0971](https://github.com/Solene0971/)
+>Solène Bourg [@Solene0971](https://github.com/Solene0971/)  
 >Amirtavarsini Jegathasan
